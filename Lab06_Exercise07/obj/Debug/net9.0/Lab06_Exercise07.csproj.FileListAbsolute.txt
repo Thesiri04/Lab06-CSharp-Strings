@@ -1,0 +1,15 @@
+C:\Users\ASUS\OOP-2567\Lab06-CSharp-Strings\Lab06_Exercise07\bin\Debug\net9.0\Lab06_Exercise07.exe
+C:\Users\ASUS\OOP-2567\Lab06-CSharp-Strings\Lab06_Exercise07\bin\Debug\net9.0\Lab06_Exercise07.deps.json
+C:\Users\ASUS\OOP-2567\Lab06-CSharp-Strings\Lab06_Exercise07\bin\Debug\net9.0\Lab06_Exercise07.runtimeconfig.json
+C:\Users\ASUS\OOP-2567\Lab06-CSharp-Strings\Lab06_Exercise07\bin\Debug\net9.0\Lab06_Exercise07.dll
+C:\Users\ASUS\OOP-2567\Lab06-CSharp-Strings\Lab06_Exercise07\bin\Debug\net9.0\Lab06_Exercise07.pdb
+C:\Users\ASUS\OOP-2567\Lab06-CSharp-Strings\Lab06_Exercise07\obj\Debug\net9.0\Lab06_Exercise07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OOP-2567\Lab06-CSharp-Strings\Lab06_Exercise07\obj\Debug\net9.0\Lab06_Exercise07.AssemblyInfoInputs.cache
+C:\Users\ASUS\OOP-2567\Lab06-CSharp-Strings\Lab06_Exercise07\obj\Debug\net9.0\Lab06_Exercise07.AssemblyInfo.cs
+C:\Users\ASUS\OOP-2567\Lab06-CSharp-Strings\Lab06_Exercise07\obj\Debug\net9.0\Lab06_Exercise07.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OOP-2567\Lab06-CSharp-Strings\Lab06_Exercise07\obj\Debug\net9.0\Lab06_Exercise07.sourcelink.json
+C:\Users\ASUS\OOP-2567\Lab06-CSharp-Strings\Lab06_Exercise07\obj\Debug\net9.0\Lab06_Exercise07.dll
+C:\Users\ASUS\OOP-2567\Lab06-CSharp-Strings\Lab06_Exercise07\obj\Debug\net9.0\refint\Lab06_Exercise07.dll
+C:\Users\ASUS\OOP-2567\Lab06-CSharp-Strings\Lab06_Exercise07\obj\Debug\net9.0\Lab06_Exercise07.pdb
+C:\Users\ASUS\OOP-2567\Lab06-CSharp-Strings\Lab06_Exercise07\obj\Debug\net9.0\Lab06_Exercise07.genruntimeconfig.cache
+C:\Users\ASUS\OOP-2567\Lab06-CSharp-Strings\Lab06_Exercise07\obj\Debug\net9.0\ref\Lab06_Exercise07.dll
